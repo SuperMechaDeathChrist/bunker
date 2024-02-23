@@ -1,1 +1,1 @@
-hell
+start:reboot
